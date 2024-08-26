@@ -36,7 +36,7 @@ const TitlePage = () => {
         <h1 className="text-3xl font-bold my-2">{original_title}</h1>
         <p className=" my-2">{release_date}</p>
         <p className=" my-2">{runtime} Min</p>
-        <p className=" my-2">{adult ? " 18+" : "U/A 13+"}</p>
+        {/* <p className=" my-2">{adult ? " 18+" : "U/A 13+"}</p> */}
         <p>{overview}</p>
       </div>
       <div className="w-[30%] mt-12 ml-5 xs:w-screen xs:px-2">

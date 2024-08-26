@@ -22,8 +22,8 @@ const Watch = () => {
     <div className=" bg-neutral-900 m-0 p-0  w-screen xs:w-screen">
       <div className="flex justify-around w-screen">
         <iframe
-            className="w-[70%]  xs:w-screen"
-          height={720}
+            className="w-[70%]  xs:w-screen "
+          height={520}
           width={980}
           src={
             "https://www.youtube.com/embed/" +
@@ -32,6 +32,7 @@ const Watch = () => {
           }
           title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
         ></iframe>
       </div>
       <div className="flex justify-center">
