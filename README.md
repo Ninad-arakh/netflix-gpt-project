@@ -1,3 +1,8 @@
+![ReactFlix](https://github.com/user-attachments/assets/fad98c0f-4492-43dc-8b8f-503fc1758932)
+
+
+
+
 # Netflix GPT
   - create react app
   - tailwind css configuration
@@ -23,5 +28,8 @@
   - in secondary container there are some lists of different types of movies
   - fetched by using tmdb's api
   - corrected the ui
+
+
+    
 
   
